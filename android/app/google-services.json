@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74428298128",
+    "project_id": "flutter-suivi-stagiaires",
+    "storage_bucket": "flutter-suivi-stagiaires.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74428298128:android:d4029ef85ad910c1e03915",
+        "android_client_info": {
+          "package_name": "com.example.flutter_suivi_stagiaires"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74428298128-aa701geg658uuo0pgq6n3e5l4m3ipigf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJ9vRD8ZJe_I4ovBkC36uY9Vvg-xsoo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74428298128-aa701geg658uuo0pgq6n3e5l4m3ipigf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
